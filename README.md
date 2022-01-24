@@ -4,7 +4,7 @@ Tableau Link [HERE](https://public.tableau.com/app/profile/hasnae.abouhilal)
 
 Story Link [HERE](https://public.tableau.com/app/profile/hasnae.abouhilal/viz/CityBikesChallengeStory/CityBikesChallengeStory?publish=yes)
 
-Data resources CSV File Link [HERE](https://drive.google.com/drive/folders/1ugGlAyMqSirc4mRLoglcikJMNK5uOQHG)
+Data resources CSV File Link [HERE](https://drive.google.com/drive/folders/1ugGlAyMqSirc4mRLoglcikJMNK5uOQHG?usp=sharing)
 
 ## Overview 
 This project is a study for the CityBike data in New York to duplicate the same project in Des Moines. We will use the analytic tool Tableau to produce visualization and a story to answer the main questions for this analysis. 
